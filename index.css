@@ -934,10 +934,18 @@ padding-top: 30px;
   margin-top: -20px;
 }
 
+.last-footer{
+  display: flex; justify-content: space-between; align-items: center; font-size: 13px;
+}
 
 .heading{
   font-size: 20px;
   font-weight: bold;
+}
+
+.last{
+  display: flex;
+    align-items: center; gap: 7px;
 }
 
 .company p{
@@ -1690,4 +1698,20 @@ margin-top: 15px;
   color: white;
   margin-bottom: 7px;
 }
+
+.second-hr{
+  margin-top: 35px; margin-bottom: 25px;
+}
+
+.last-footer{
+  display: flex;
+  flex-direction: column; justify-content: space-between; align-items: center; font-size: 13px;
+  margin-top: 5px;
+}
+
+.last{
+  display: flex;
+    align-items: center; gap: 7px; margin-top: 5px;
+}
+
 }
