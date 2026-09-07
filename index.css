@@ -783,6 +783,7 @@ background-color: #FFFCEB;
   width: 400px;
   height: 250px;
   border-radius: 8px;
+  
 }
 
 .fruit-collection2{
@@ -792,6 +793,7 @@ background-color: #FFFCEB;
   width: 400px;
   height: 250px;
   border-radius: 8px;
+
 }
 
 .fruit-collection3{
@@ -1702,6 +1704,7 @@ background-color: #FFFCEB;
   width: 300px;
   height: 200px;
   border-radius: 8px;
+
   
 }
 
@@ -1712,6 +1715,7 @@ background-color: #FFFCEB;
   width: 300px;
   height: 200px;
   border-radius: 8px;
+  margin-top: 50px;
 }
 
 .fruit-collection3{
@@ -1721,6 +1725,7 @@ background-color: #FFFCEB;
   width: 300px;
   height: 200px;
   border-radius: 8px;
+  margin-top: 50px;
 }
 
 .fruit-collection4{
@@ -1730,6 +1735,7 @@ background-color: #FFFCEB;
   width: 300px;
   height: 200px;
   border-radius: 8px;
+  margin-top: 50px;
 }
 
 .genius{
@@ -1749,13 +1755,13 @@ background-color: #FFFCEB;
 }
 
 .cage{
-  width: 200px;
-  height: 150px;
+  width: 250px;
+  height: 120px;
   box-shadow: 0px 0px 6px rgb(203, 201, 201);
   background-color: white;
   border-radius: 8px;
   padding-left: 10px;
-  margin-left:55px;
+  margin-left:25px;
   margin-bottom: 20px;
   
 }
