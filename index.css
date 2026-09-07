@@ -1184,7 +1184,7 @@ border: none;
   font-size: 30px;
   font-family: arial;
   font-weight: bold;
-  margin-left: 0px;
+  margin-left: -10px;
   margin-top: 20px;
   line-height: -0.5px;
   margin-bottom: 10px;
@@ -1193,7 +1193,7 @@ border: none;
 }
 .save{
   margin-top: -10px;
-  margin-left: 0px;
+  margin-left: -10px;
   color: darkgray;
   letter-spacing: 1px;
 }
@@ -1201,7 +1201,7 @@ border: none;
   width: 300px;
   /* border: 1px solid black; */
   height: 40px;
-  margin-left: 0px;
+  margin-left: -20px;
   background-color: white;
   border-radius: 20px;
   padding-left: 5px;
@@ -1215,10 +1215,11 @@ border: none;
   font-style: italic;
   border: none;
   border-radius: 20px;
+  margin-left: -15px;
 }
 .subscribe-btn{
   height: 40px;
-  width: 80px;
+  width: 95px;
   border-radius: 20px;
   margin-left: 10px;
   padding: 7px 10px;
