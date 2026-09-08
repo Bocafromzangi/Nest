@@ -1629,10 +1629,20 @@ background-color: #FFFCEB;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-left: 20px;
+  padding-left: 0px;
   padding-right: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.big-leaf{
+  background-image: url('big-leaf.png');
+  width: 250px;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 8px;
+  margin-left: -20px;
 }
 
 .fle{
@@ -1648,13 +1658,19 @@ background-color: #FFFCEB;
 
 }
 
+.deal{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
 .grid{
    display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: minmax(70px);
-  
- 
-  
+  margin-left: -20px;  
 }
 
 .line{
