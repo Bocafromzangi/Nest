@@ -1129,11 +1129,16 @@ span{
 }
 .second-nav{
   display: flex;
-  
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 60px;
+  width: 100%;
   align-items: center;
   justify-content: space-between;
-  margin-top: 10px;
+  margin-top: 0px;
   padding-right: 20px;
+  background-color: #F4F6FA;
   
 }
 .fawaz{
@@ -2026,14 +2031,20 @@ gap: 3px;
 
 .menu{
   display: flex;
+  padding-left: 40px;
 }
 .second-nav{
   display: flex;
-  
+  position: fixed;
+  top: 0;
+  left: 0;
   align-items: center;
-  justify-content: space-between;
-  margin-top: 10px;
-  padding-right: 20px;
+  justify-content: space-around;
+  width: 100%;
+  z-index: 50;
+  margin-top: 0;
+  background-color: white;
+  box-shadow: 0px 0px 6px black;
   
 }
 .fawaz{
@@ -2073,6 +2084,7 @@ gap: 3px;
   height: 300px;
   border-radius: 8px;
   margin-left: 2px; 
+  margin-top: 90px;
 }
 
 .vegetables{
@@ -2609,4 +2621,4 @@ margin-top: 15px;
   font-size: 13px;
   color:lightgray;
 }
-}  */
+}   */
